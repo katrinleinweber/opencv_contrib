@@ -18,7 +18,7 @@
  ** Theses algorithm have been developped by Alexandre BENOIT since his thesis with Alice Caplier at Gipsa-Lab (www.gipsa-lab.inpg.fr) and the research he pursues at LISTIC Lab (www.listic.univ-savoie.fr).
  ** Refer to the following research paper for more information:
  ** Strat, S.T.; Benoit, A.; Lambert, P., "Retina enhanced bag of words descriptors for video classification," Signal Processing Conference (EUSIPCO), 2014 Proceedings of the 22nd European , vol., no., pp.1307,1311, 1-5 Sept. 2014 (http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6952461&isnumber=6951911)
- ** Benoit A., Caplier A., Durette B., Herault, J., "USING HUMAN VISUAL SYSTEM MODELING FOR BIO-INSPIRED LOW LEVEL IMAGE PROCESSING", Elsevier, Computer Vision and Image Understanding 114 (2010), pp. 758-773, DOI: http://dx.doi.org/10.1016/j.cviu.2010.01.011
+ ** Benoit A., Caplier A., Durette B., Herault, J., "USING HUMAN VISUAL SYSTEM MODELING FOR BIO-INSPIRED LOW LEVEL IMAGE PROCESSING", Elsevier, Computer Vision and Image Understanding 114 (2010), pp. 758-773, DOI: https://doi.org/10.1016/j.cviu.2010.01.011
  ** This work have been carried out thanks to Jeanny Herault who's research and great discussions are the basis of all this work, please take a look at his book:
  ** Vision: Images, Signals and Neural Networks: Models of Neural Processing in Visual Perception (Progress in Neural Processing),By: Jeanny Herault, ISBN: 9814273686. WAPI (Tower ID): 113266891.
  **
